@@ -1,0 +1,32 @@
+{
+  "name": "mcp-lookalike-company-finder",
+  "displayName": "Lookalike Company Finder",
+  "version": "1.0.0",
+  "description": "MCP server for Lookalike Company Finder. Find companies similar to your best customers or a competitor, ranked by a 0 to 100 similarity score with the evidence behind it. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-lookalike-company-finder",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "lookalike-companies",
+    "similar-companies",
+    "competitors",
+    "tam",
+    "account-research",
+    "apify"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "lookalike-companies",
+    "similar-companies",
+    "competitors",
+    "tam",
+    "apify"
+  ],
+  "mcpServers": ".mcp.json"
+}
