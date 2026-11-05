@@ -1,7 +1,7 @@
 {
   "name": "mcp-lookalike-company-finder",
   "displayName": "Lookalike Company Finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Lookalike Company Finder. Find companies similar to your best customers or a competitor, ranked by a 0 to 100 similarity score with the evidence behind it. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs",

@@ -4,7 +4,7 @@
 
 <a href="https://mcprush.com/to/lookalike-company-finder-mcp?ref=badge"><img width="380" height="200" src="https://mcprush.com/badge/lookalike-company-finder-mcp/card.svg" alt="Lookalike Company Finder MCP server" /></a>
 
-An MCP server for the Mamba Labs Lookalike Company Finder actor on Apify. Give it seed company domains. Each run returns similar companies ranked by a similarity score, with the evidence behind each score.
+An MCP server for the Mamba Labs [Lookalike Companies from Seed Domains](https://apify.com/mambalabs/lookalike-company-finder) actor on Apify. Give it seed company domains. Each run returns similar companies ranked by a similarity score, with the evidence behind each score.
 
 ## What's Inside
 
